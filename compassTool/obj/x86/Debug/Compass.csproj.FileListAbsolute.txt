@@ -1,0 +1,16 @@
+C:\Arduino\CompassGraph\OSD\bin\Debug\OSD_Config.exe.config
+C:\Arduino\CompassGraph\OSD\obj\x86\Debug\OSD_Config.exe
+C:\Arduino\CompassGraph\OSD\obj\x86\Debug\OSD_Config.pdb
+C:\Arduino\CompassGraph\OSD\bin\Debug\OSD_Config.exe.manifest
+C:\Arduino\CompassGraph\OSD\bin\Debug\OSD_Config.application
+C:\Arduino\CompassGraph\OSD\bin\Debug\OSD_Config.exe
+C:\Arduino\CompassGraph\OSD\bin\Debug\OSD_Config.pdb
+C:\Arduino\CompassGraph\OSD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Arduino\CompassGraph\OSD\obj\x86\Debug\OSD.Compass.resources
+C:\Arduino\CompassGraph\OSD\obj\x86\Debug\OSD.Properties.Resources.resources
+C:\Arduino\CompassGraph\OSD\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Arduino\CompassGraph\OSD\obj\x86\Debug\GenerateResource-ResGen.read.5.tlog
+C:\Arduino\CompassGraph\OSD\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Arduino\CompassGraph\OSD\obj\x86\Debug\OSD_Config.TrustInfo.xml
+C:\Arduino\CompassGraph\OSD\obj\x86\Debug\OSD_Config.exe.manifest
+C:\Arduino\CompassGraph\OSD\obj\x86\Debug\OSD_Config.application

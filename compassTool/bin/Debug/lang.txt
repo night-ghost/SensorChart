@@ -1,0 +1,17 @@
+[Compass]
+chkRaw=raw
+Reset=Reset to 0
+label11=Z
+label12=Y
+label13=X
+label8=Z
+label9=Y
+label10=X
+label7=Z
+label6=Y
+label4=X
+label3=Sum Gyro
+label2=Compass
+label1=Accel
+label5=Serial Port:
+BUT_ReadOSD=Connect
